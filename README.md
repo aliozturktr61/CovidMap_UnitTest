@@ -43,4 +43,9 @@ npm install 'axios@^0.27.2'
 Kullandığımız Api:
 rapidapi içerisinde covid istatic  alıyoruz.
 
--- bir nesneyi diziye dönüştürmek için Object.entries kullanıyoruz.# CovidMap_UnitTest
+-- bir nesneyi diziye dönüştürmek için Object.entries kullanıyoruz.
+
+# CovidMap_UnitTest
+
+![covid](https://github.com/user-attachments/assets/538b2f83-5b23-4dd6-876d-c13771512c15)
+
